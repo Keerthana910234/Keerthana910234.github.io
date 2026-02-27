@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Welcome to my website!
 ---
-
-# Welcome to my website!
 
 Hi, I am Keerthan Arun, a PhD student in the Bioengineering department at the University of Pennsylvania. Prior to this, I worked with Prof. Yogesh Goyal at Northwestern University as a research assistant. I studied Physics as an undergraduate student at Indian Institute of Technology, Kanpur.
 
