@@ -1,10 +1,5 @@
 ---
 layout: page
----
-
-
----
-layout: page
 title: ""
 ---
 
