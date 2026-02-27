@@ -1,3 +1,7 @@
 title: Keerthana M Arun
-description: Personal website with resume
+description: Personal site
 theme: minima
+
+header_pages:
+  - research.md
+  - publications.md
