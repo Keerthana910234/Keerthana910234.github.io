@@ -5,10 +5,10 @@ permalink: /research/
 ---
 
 
-## Light and tenperature sensing proteins
+## Light and temperature sensing proteins
 
 
 
-## Gene regulatory interaction inference
+## Gene regulatory interaction inference using twin cells
 
-Transcription factors have been shown to play a major role in establishing and maintaining cell identity. Similarly, their interactions are often affected in disease states, like cancer. This makes inferring gene regulatory networks an important problem but it is difficult due to many reasons: noisy measurements, indirect interactions among others. Twin cells, recently divided cells, can be used to discern if there are multiple cell states (thus, appearing to be regulating each other but in reality, are not really regulating each other) and also infer directionality of regulations with two static single-cell RNA measurements.
+Transcription factors are known to play a major role in establishing and maintaining cell identity, and their interactions are frequently disrupted in disease states such as cancer. Inferring gene regulatory networks is therefore an important problem, but remains challenging due to noisy measurements and indirect interactions, among other factors. Recently divided "twin" cells offer a powerful tool to address this: they can help distinguish between multiple co-existing cell states and infer the directionality of regulatory relationships using two static single-cell RNA measurements combined with lineage tracing.
